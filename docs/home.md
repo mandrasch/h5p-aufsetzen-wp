@@ -1,24 +1,25 @@
-# CPT363 User Interface Design
+# H5P-Instanz mit Wordpress aufsetzen
 
-<sl-alert class="alert-grey-background" type="info" open>
+H5P ist eine Open Source Software für das Erstellen, Bereitstellen und das Austauschen interaktiver Inhalte im Web. (Wenn Sie den H5P-Editor kurz ausprobieren wollen, eignet sich [einstiegh5p.de](https://einstiegh5p.de/) oder der [Lumi-Desktop-Editor](http://lumi.education/)).
 
-## Important Reminders
+Um H5P-Inhalte zu editieren und bereitzustellen, wird H5P als kostenfreies Plugin in Software-Systemen installiert. Mit Hilfe einer eigenen H5P-Instanz können Sie diese Inhalte auch in anderen Webseitenprojekten mittels iframe einbinden, wenn dies gewünscht ist.
 
-  * [Journey Map](#) assignment <sl-badge type="info">Jun 12 11:59pm PDT</sl-icon></sl-badge>
-  * [Course Reflection Log](#) assignment <sl-badge type="info">Aug 3rd 11:59pm PDT</sl-icon></sl-badge>
+Auf dieser Seite finden Sie eine Anleitung wie H5P mit Hilfe der Open Source Software Wordpress auf einer eigenständige Webseite betrieben werden kann:
 
-</sl-alert>
+<div style="text-align:center;">
+<a href="/#/page-1-wp-installation" target="_self" rel="noopener" class="button">Anleitung beginnen</a>
+</div>
 
-## Jun 6th Class Preparations
+<br />
 
-### Required Reading
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing | UX Booth</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+<hr />
 
-[Required Reading Quiz](https://sso.canvaslms.com/courses/1924881/quizzes/4876153 ':class=button')
+**Hintergrund H5P**
 
-### Slides to be Discussed
+Der Quelltext von H5P ist frei einsehbar, kostenfrei beziehbar und darf von jedermensch verändert und angepasst werden. Alle Informationen hierzu finden sich auf der offiziellen Projekt-Webseite [h5p.org](https://h5p.org), der Quelltext liegt auf der Plattform GitHub ([github.com/h5p](https://github.com/h5p)).
 
-[Usability Testing](https://www.google.ca/slides/about/)
+Das Software-Projekt H5P wurde von der norwegischen Firma [Joubel](https://h5p.org/Joubel) gegründet und als Open Source Projekt allen Menschen zur Verfügung gestellt.
 
-Did you attend this class? [Share your one-minute summary](#) before midnight, the day of class.
+Joubel betreibt mit [h5p.com](https://h5p.com) zusätzlich einen professionell betreuten und kostenpflichtigen H5P-Hosting-Service.
+
+*Falls Sie H5P nicht selber installieren möchten, können Sie also bspw. den kostenpflichtigen und professionellen Service [h5p.com](https://h5p.com) in Anspruch nehmen oder eine Web-Agentur / Freelancer:in damit beauftragen.*

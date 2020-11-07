@@ -1,12 +1,16 @@
-- [Week 1 (May 9 - 15)](module-1)
-- [Week 2 (May 16 - 22)](module-2)
-- [Week 3 (May 23 - 29)](module-3)
-- [Week 4 (May 30 - Jun 5)](module-4)
-- **LMS Links**
-- [<i class="fas fa-calendar"></i> Calendar](https://canvas.instructure.com/calendar)
-- [<i class="fas fa-edit"></i> Assignments](https://canvas.instructure.com/courses/1924881/assignments )
-- [<i class="fas fa-check-circle"></i> Quizzes](https://canvas.instructure.com/courses/1924881/quizzes)
-- [<i class="fas fa-comments"></i> Class Discussions](https://canvas.instructure.com/courses/1924881/discussion_topics)
-- [<i class="fas fa-list"></i> Syllabus](https://canvas.instructure.com/courses/1924881/assignments/syllabus)
+- **Wordpress**
+- [1. Installation Wordpress](page-1-wp-installation)
+- [2. H5P installieren](page-2-h5p-plugin)
+- [3. Öffentlich oder geschützt?](page-3-wp-public-or-protected)
+- [4. Empfohlene Plugins](page-4-recommend-plugins)
+- [5. Datenschutz & Impressum](page-5-gdpr-imprint)
+- [6. Urheberrecht](page-6-copyright)
+- **Support Links**
+- <i class="fas fa-comments"></i> H5P Forum
+- <i class="fas fa-comments"></i> H5P Facebook-Gruppe
+- <i class="fas fa-comments"></i> H5P Twitch: Oliver Tacke
+- <i class="fas fa-comments"></i> H5P Einstieg
 - **Project Documentation**
-  - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/README.md)
+  - [ReadMe](https://github.com/programmieraffe/h5p-aufsetzen-wp)
+
+Text: CC0

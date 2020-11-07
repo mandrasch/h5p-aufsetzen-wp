@@ -1,2 +1,1 @@
-* [Schedule](schedule.md)
-* [Contact Instructor](contact-instructor.md)
+* [Als Tweet teilen]()
